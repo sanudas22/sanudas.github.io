@@ -1918,7 +1918,6 @@ input, select, textarea {
 	height: 300px;
   perspective: 1000px;
 	padding: 15px;
-	margin-left: 120px;
 }
 
 .flip-card-exp-inner {
