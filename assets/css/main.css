@@ -699,8 +699,7 @@ input, select, textarea {
 		.image.main {
 			display: block;
 			margin: 2.5rem 0;
-			width: 60%;
-			margin-left: 140px;
+			width: 100%;
 		}
 
 			.image.main img {
@@ -1795,11 +1794,11 @@ input, select, textarea {
     margin: 0 auto;
   }
 
-	.container img {
+	/* .container img {
 		display: block;
 		margin-left: 140px;
   	width: 60%;
-	}
+	} */
 
   .container .overlay {
     position: absolute;
@@ -1918,6 +1917,7 @@ input, select, textarea {
 	height: 300px;
   perspective: 1000px;
 	padding: 15px;
+	margin-left: 120px;
 }
 
 .flip-card-exp-inner {
